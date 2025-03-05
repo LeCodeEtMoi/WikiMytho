@@ -1,6 +1,6 @@
 author = "cydave"
 title = "WikiMytho"
-base_url = "https://cydave.github.io/zola-theme-papermod"
+base_url = "https://lecodeetmoi.github.io/WikiMytho/"
 compile_sass = true
 build_search_index = true 
 generate_feeds = true
